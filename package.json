@@ -42,5 +42,8 @@
   },
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
+  },
+  "dependencies": {
+    "mobile-drag-drop": "^2.3.0-rc.1"
   }
 }
